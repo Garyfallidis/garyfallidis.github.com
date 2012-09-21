@@ -1,5 +1,5 @@
 ======================================
-|Dr| Eleftherios Garyfallidis, PhD
+|Dr| Ελευθέριος Γαρυφαλλίδης, PhD
 ======================================
 .. |Dr| image:: figures/face.jpg
         :width: 100px
@@ -7,7 +7,7 @@
 .. raw:: html
         
         <H2 align="center"> 
-        I create tools to navigate non-invasively the information super-highways of the human brain. 
+        I create tools to navigate the super-highways of the human brain. 
         </H1>
 
 .. Science
