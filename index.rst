@@ -6,7 +6,7 @@
 
 .. raw:: html
         
-        <H22 align="center"> 
+        <H2 align="center"> 
         I create tools to navigate non-invasively the information super-highways of the human brain. 
         </H1>
 
