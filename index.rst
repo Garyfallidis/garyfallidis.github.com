@@ -1,7 +1,7 @@
 ======================================
-|myface| Eleftherios Garyfallidis, PhD
+|Dr| Eleftherios Garyfallidis, PhD
 ======================================
-.. |myface| image:: figures/face.jpg
+.. |Dr| image:: figures/face.jpg
         :width: 100px
 
 --------------
@@ -22,6 +22,7 @@ Education
 .. image:: figures/cambridge_university.jpg
     :align: center
     :width: 800px
+    :target: http://dl.dropbox.com/u/2481924/thesis.pdf
 
 Personal
 ========
@@ -29,6 +30,7 @@ Personal
 .. image:: figures/eleftherios_alps.jpg
     :align: center
     :width: 800px
+    :target: http://www.facebook.com/garyfallidis
 
 Philosophy
 ==========
@@ -36,6 +38,7 @@ Philosophy
 .. image:: figures/eleftherios_simplicity.jpg
     :align: center
     :width: 800px
+    :target: http://www.quotationspage.com/subjects/simplicity/
 
 Publications
 ============
@@ -43,4 +46,5 @@ Publications
 .. image:: figures/research_gate.jpg
     :align: center
     :width: 800px
+    :target: http://www.researchgate.net/profile/Eleftherios_Garyfallidis/
 
