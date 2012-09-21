@@ -12,7 +12,7 @@ Science
 
 .. image:: figures/pretty_tracks.png
     :align: center
-    :width: 400pxy
+    :width: 400px
     :target: http://dipy.org
 
 Education
@@ -20,26 +20,26 @@ Education
 
 .. image:: figures/cambridge_university.jpg
     :align: center
-    :width: 400pxy
+    :width: 400px
 
 Personal
 ========
 
 .. image:: figures/eleftherios_alps.jpg
     :align: center
-    :width: 400pxy
+    :width: 400px
 
 Philosophy
 ==========
 
 .. image:: figures/eleftherios_simplicity.jpg
     :align: center
-    :width: 400pxy
+    :width: 400px
 
 Publications
 ============
 
 .. image:: figures/research_gate.jpg
     :align: center
-    :width: 400pxy
+    :width: 400px
 
