@@ -4,11 +4,11 @@
 .. |Dr| image:: figures/face.jpg
         :width: 100px
 
---------------
- Introduction
---------------
-
-I create tools to navigate non-invasively the information super-highways of the human brain.
+.. raw:: html
+        
+        <H1 align="center"> 
+        I create tools to navigate non-invasively the information super-highways of the human brain. 
+        </H1>
 
 .. Science
 .. ==========
