@@ -1,5 +1,5 @@
 ======================================
-|Dr| Eleftherios Garyfallidis, PhD
+|Dr| Ελευθέριος Γαρυφαλλίδης, PhD
 ======================================
 .. |Dr| image:: figures/face.jpg
         :width: 100px
