@@ -20,5 +20,7 @@ Troubleshooting
 
 SUSPEND_MODULES="iwlwifi" 
 
-
+Recorder desktop + sound
+------------------------
+avconv -f x11grab -s 1024x768 -r 24 -i 0:0 -deadline realtime -b 5000000 -minrate 200000 -maxrate 40000000 -f alsa -i pulse recording-filename-000.webm
 
