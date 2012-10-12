@@ -28,7 +28,15 @@ noremap <C-Right> :tabnext<CR>
 inoremap <C-Left> <Esc>:tabprevious<CR>i
 inoremap <C-Right> <Esc>:tabnext<CR>i
 
+" move tabs
+nnoremap <silent> <A-Left> :execute 'silent! tabmove ' . (tabpagenr()-2)<CR>
+nnoremap <silent> <A-Right> :execute 'silent! tabmove ' . tabpagenr()<CR>
+
+
 " save current
 noremap <C-Down> :w<CR>
 inoremap <C-Down> <Esc>:w <CR>i
+
+" enable clipboard cut/copy/paste from visual mode without d/y/P 
+set clipboard=unnamedplus
 
