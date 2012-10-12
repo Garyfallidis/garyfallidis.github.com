@@ -40,3 +40,5 @@ inoremap <C-Down> <Esc>:w <CR>i
 " enable clipboard cut/copy/paste from visual mode without d/y/P 
 set clipboard=unnamedplus
 
+" i for insert and ii for esc
+imap ii <Esc>
