@@ -53,6 +53,11 @@ gvim -p file1 file2 file3
 :%s/foo/bar/gci #case insensitive
 :%s/foo/bar/gcI #case sensitive
 
+#Search and replace in multiple directories and files
+Esc
+:args **/*.py
+:argsdo %s/search/replace/gc
+
 #Search and replace in selection
 Esc
 v + arrows
@@ -62,7 +67,6 @@ v + arrows
 Esc
 v+ arrows
 :/\%Vfoo
-
 
 #More on search and replace can be found here
 #http://vim.wikia.com/wiki/Search_and_replace

@@ -20,6 +20,8 @@ Introduction
 
 My notes after watching the intoductory videos at github_. The link for the videos can by found at `learn.github.com`_. I also used gitref.org.
 
+http://try.github.com/levels/1/challenges/1
+
 New concepts
 ~~~~~~~~~~~~
 
