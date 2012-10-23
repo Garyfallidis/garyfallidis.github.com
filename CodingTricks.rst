@@ -30,6 +30,12 @@ http://www.python.org/dev/peps/pep-0008/#other-recommendations
 #Use Numpy/Scipy coding style
 https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt
 
+Numpy
+-----
+Advanced tutorial on numpy with strided_as and broadcasting
+http://mentat.za.net/numpy/numpy_advanced_slides/
+http://stackoverflow.com/questions/2485669/stretch-array-numpy-python
+
 Bash
 -----
 
