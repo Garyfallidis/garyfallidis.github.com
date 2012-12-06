@@ -218,5 +218,9 @@ git stash apply
 git commit etc.
 
 
-
+Rebase
+------
+git checkout your_branch
+git rebase nipy-dipy-master
+git push -f oring your_branch
 
