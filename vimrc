@@ -47,4 +47,14 @@ imap ii <Esc>
 noremap ww :w<CR>
 inoremap ww <Esc>:w <CR>i
 
+" exit with xx
+noremap xx :x<CR>
+inoremap xx <Esc>:x <CR>i
 
+" find with ff
+noremap ff /
+inoremap ff <Esc>/
+
+" replace with
+noremap rr :%s/
+inoremap rr <Esc>:%s/
