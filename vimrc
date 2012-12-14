@@ -21,7 +21,6 @@ set ruler                           " show line and column number
 syntax on                       " syntax highlighting
 set showcmd                     " show (partial) command in status line
 
-
 " tab navigation
 noremap <C-Left> :tabprevious<CR>
 noremap <C-Right> :tabnext<CR>
@@ -31,7 +30,6 @@ inoremap <C-Right> <Esc>:tabnext<CR>i
 " move tabs
 nnoremap <silent> <A-Left> :execute 'silent! tabmove ' . (tabpagenr()-2)<CR>
 nnoremap <silent> <A-Right> :execute 'silent! tabmove ' . tabpagenr()<CR>
-
 
 " save current
 noremap <C-Down> :w<CR>
@@ -58,3 +56,9 @@ inoremap ff <Esc>/
 " replace with
 noremap rr :%s/
 inoremap rr <Esc>:%s/
+
+" highlight tabs and trailing spaces
+set listchars=tab:>-,trail:-
+set list
+
+
