@@ -53,12 +53,18 @@ inoremap xx <Esc>:x <CR>i
 noremap ff /
 inoremap ff <Esc>/
 
-" replace with
+" replace with rr
 noremap rr :%s/
 inoremap rr <Esc>:%s/
+
+" open new file with tt
+noremap tt :tabe 
+inoremap tt <Esc>:tabe 
+
 
 " highlight tabs and trailing spaces
 set listchars=tab:>-,trail:-
 set list
 
-
+" set default colorscheme
+colorscheme slate
