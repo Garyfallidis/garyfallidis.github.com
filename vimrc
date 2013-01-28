@@ -45,21 +45,21 @@ imap ii <Esc>
 noremap ww :w<CR>
 inoremap ww <Esc>:w <CR>i
 
-" exit with xx
+" exit and save with xx
 noremap xx :x<CR>
 inoremap xx <Esc>:x <CR>i
 
 " find with ff
-noremap ff /
-inoremap ff <Esc>/
+noremap fff /
+inoremap fff <Esc>/
 
 " replace with rr
-noremap rr :%s/
-inoremap rr <Esc>:%s/
+noremap rrr :%s/
+inoremap rrr <Esc>:%s/
 
 " open new file with tt
-noremap tt :tabe 
-inoremap tt <Esc>:tabe 
+noremap ttt :tabe 
+inoremap ttt <Esc>:tabe 
 
 
 " highlight tabs and trailing spaces
