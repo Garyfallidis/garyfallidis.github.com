@@ -100,6 +100,13 @@ Pretty logs with diffs
 
 git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)[%an]%Creset' --abbrev-commit --date=relative
 
+see the diffs for every commit
+git lg -p
+see the files that change for every commit
+git lg --stat
+
+
+
 Clean all untracked files
 -------------------------
 
@@ -224,3 +231,12 @@ git checkout your_branch
 git rebase nipy-dipy-master
 git push -f oring your_branch
 
+Reflog
+-------
+git reset to older_commit
+git reflog
+
+
+Git push so that you can avoid using origin blah blah
+------------------------------------------------------
+git push origin branch-name -u
