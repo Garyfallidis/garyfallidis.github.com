@@ -50,17 +50,16 @@ noremap xx :x<CR>
 inoremap xx <Esc>:x <CR>i
 
 " find with ff
-noremap ff /
-inoremap ff <Esc>/
+" noremap ff /
+" inoremap ff <Esc>/
 
 " replace with rr
-noremap rr :%s/
-inoremap rr <Esc>:%s/
+" noremap rr :%s/
+" inoremap rr <Esc>:%s/
 
 " open new file with tt
-noremap tt :tabe 
-inoremap tt <Esc>:tabe 
-
+" noremap tt :tabe 
+" inoremap tt <Esc>:tabe 
 
 " highlight tabs and trailing spaces
 set listchars=tab:>-,trail:-

@@ -6,12 +6,6 @@ Another Git Tutorial
 ====================
 
 
-
-------------------------
-Eleftherios Garyfallidis
-------------------------
-
-
 Github Notes
 ============
 
@@ -21,10 +15,6 @@ Introduction
 My notes after watching the intoductory videos at github_. The link for the videos can by found at `learn.github.com`_. I also used gitref.org.
 
 http://try.github.com/levels/1/challenges/1
-
-New concepts
-~~~~~~~~~~~~
-
 
 
 Cheat Sheet
@@ -223,4 +213,20 @@ Rebase
 git checkout your_branch
 git rebase nipy-dipy-master
 git push -f oring your_branch
+
+
+Merge specific files from another git repo
+------------------------------------------
+git checkout my_repo
+git checkout other_repo/branch file1 file2
+
+git commit -m "..."
+
+
+Copy specific lines from one branch file to another
+---------------------------------------------------
+git checkout my_repo
+git difftool -t diffuse other_repo/branch -- paper/dipy_paper.tex
+
+
 
