@@ -90,6 +90,13 @@ Pretty logs with diffs
 
 git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)[%an]%Creset' --abbrev-commit --date=relative
 
+see the diffs for every commit
+git lg -p
+see the files that change for every commit
+git lg --stat
+
+
+
 Clean all untracked files
 -------------------------
 
@@ -228,5 +235,13 @@ Copy specific lines from one branch file to another
 git checkout my_repo
 git difftool -t diffuse other_repo/branch -- paper/dipy_paper.tex
 
+Reflog
+-------
+git reset to older_commit
+git reflog
 
+
+Git push so that you can avoid using origin blah blah
+------------------------------------------------------
+git push origin branch-name -u
 
