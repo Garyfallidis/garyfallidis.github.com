@@ -2061,8 +2061,23 @@ height "1pt"
 \end_layout
 
 \begin_layout Enumerate
+Garyfallidis E.
+ (Oct.
+ 2014), 
+\begin_inset Quotes eld
+\end_inset
+
+Hack the white matter with Dipy
+\begin_inset Quotes erd
+\end_inset
+
+, Ignite speaker in Brainhack EDT (brainhack.org), University of Montreal,
+ Canada.
+\end_layout
+
+\begin_layout Enumerate
 Garyfalldis E.
- (2014), 
+ (May 2014), 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2075,16 +2090,15 @@ Diffusion MRI workshop
 
 \begin_layout Enumerate
 Garyfallidis E.
- (March.
+ (Mar.
  2013), “Quickbundles-based Segmentation”, Harvard University, USA.
  
 \end_layout
 
 \begin_layout Enumerate
 Garyfallidis E.
- (May.
- 2013), “Diffusion imaging course with Dipy”, University of California at
- Berkeley, USA.
+ (May 2013), “Diffusion imaging course with Dipy”, University of California
+ at Berkeley, USA.
  
 \end_layout
 
