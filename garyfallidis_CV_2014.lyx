@@ -2152,6 +2152,34 @@ height "1pt"
 \begin_layout Standard
 
 \series bold
+Garyfallidis E
+\series default
+, (2014), Interviewed by Kelly Rae Chi of 
+\series bold
+The Scientist Magazine
+\series default
+ on Tractography and Dipy.
+ The article entitled 
+\begin_inset Quotes eld
+\end_inset
+
+White’s the Matter
+\begin_inset Quotes erd
+\end_inset
+
+ was published on November 1st and it is available online here 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://www.the-scientist.com/?articles.view/articleNo/41266/title/White-s-the-Matter/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
 \lang english
 Garyfallidis E
 \series default
@@ -2932,6 +2960,7 @@ height "1pt"
 \begin_layout Plain Layout
 
 \series bold
+\size small
 Prof.
  Maxime Descoteaux
 \end_layout
@@ -2942,6 +2971,8 @@ Prof.
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Position:
 \end_layout
 
@@ -2951,6 +2982,8 @@ Position:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Associate Professor
 \end_layout
 
@@ -2960,6 +2993,8 @@ Associate Professor
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Telephone:
 \end_layout
 
@@ -2969,6 +3004,8 @@ Telephone:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 +1-819-580-1456
 \end_layout
 
@@ -2998,6 +3035,8 @@ Telephone:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 University of Sherbrooke
 \end_layout
 
@@ -3007,6 +3046,8 @@ University of Sherbrooke
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 E-mail:
 \end_layout
 
@@ -3016,6 +3057,8 @@ E-mail:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 maxime.descoteaux@gmail.com
 \end_layout
 
@@ -3045,6 +3088,8 @@ maxime.descoteaux@gmail.com
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Sherbrooke, CA
 \end_layout
 
@@ -3054,6 +3099,8 @@ Sherbrooke, CA
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Relationship:
 \end_layout
 
@@ -3063,6 +3110,8 @@ Relationship:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Post-doc supervisor
 \end_layout
 
@@ -3288,7 +3337,7 @@ Position:
 \begin_layout Plain Layout
 
 \size small
-Head Engineer at NIPY
+Head Engineer at NIPY/NIBABEL
 \end_layout
 
 \end_inset
@@ -3796,7 +3845,8 @@ PhD 2nd advisor
 
 \series bold
 \size small
-Professor Antonis Argyros
+Prof.
+ Antonis Argyros
 \end_layout
 
 \end_inset
@@ -3972,7 +4022,8 @@ MSc supervisor
 
 \series bold
 \size small
-Professor Nikolaos Vassilas
+Prof.
+ Nikolaos Vassilas
 \end_layout
 
 \end_inset
