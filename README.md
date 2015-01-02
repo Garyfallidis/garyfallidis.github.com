@@ -1,4 +1,0 @@
-Garyfallidis
-============
-
-Eleftherios.net website
