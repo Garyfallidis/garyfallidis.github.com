@@ -633,6 +633,7 @@ status open
 \begin_layout Plain Layout
 
 \series bold
+\emph on
 Diffusion Imaging in Python
 \end_layout
 
@@ -798,7 +799,7 @@ status open
 \begin_inset Text
 
 \begin_layout Plain Layout
-Post-Doctoral Researcher 
+Postdoctoral Researcher 
 \end_layout
 
 \end_inset
@@ -809,6 +810,7 @@ Post-Doctoral Researcher
 \begin_layout Plain Layout
 
 \series bold
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -914,6 +916,8 @@ PhD Project
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1037,6 +1041,8 @@ Research Project
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1150,6 +1156,8 @@ MSc 1st Project
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1260,6 +1268,8 @@ MSc 2nd Project
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1369,6 +1379,8 @@ BSc Project
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\emph on
 \begin_inset Quotes eld
 \end_inset
 
@@ -1494,6 +1506,8 @@ Garyfallidis, E
  Wassermann, M.
  Descoteaux.
  
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1502,6 +1516,8 @@ s
 \begin_inset Quotes erd
 \end_inset
 
+
+\emph default
 , Neuroimage (under revision), 2015.
 \end_layout
 
@@ -1515,6 +1531,8 @@ E.
  Descoteuax, M.
  Riveara.
  
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1523,6 +1541,8 @@ Symmetric Diffeomorphic Registration with Expected Cross-Correlation for
 \begin_inset Quotes erd
 \end_inset
 
+
+\emph default
 , Medical Image Analysis (submitted), 2015.
 \end_layout
 
@@ -1537,6 +1557,8 @@ E.
 \series default
 , K.
  Whittingstall, 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1545,6 +1567,8 @@ Morphology of thalamus, LGN and optic radiation do not influence EEG alpha
 \begin_inset Quotes erd
 \end_inset
 
+
+\emph default
 , Cortex (under submission), 2015.
 \end_layout
 
@@ -1558,6 +1582,8 @@ E.
 \series default
 , P.
  Avesani, 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1565,6 +1591,8 @@ Visual Data Mining Tool for Brain Connectivity Analysis
 \begin_inset Quotes erd
 \end_inset
 
+
+\emph default
 , Data Mining and Knowledge Discovery (accepted), 2015.
 \end_layout
 
@@ -1581,6 +1609,8 @@ Garyfallidis, E.
  Descoteaux, and I.
  Nimmo-Smith.
  
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -1588,6 +1618,8 @@ Dipy, a library for the analysis of diffusion MRI data
 \begin_inset Quotes erd
 \end_inset
 
+
+\emph default
 .
  Frontiers in Neuroinformatics, 1-18, 2014.
  
@@ -1620,9 +1652,12 @@ E.
  Rivera, Y.
  Wiaux, and J-P.
  Thiran.
- "Quantitative comparison of reconstruction methods for intra-voxel fiber
- recovery from diffusion MRI." Transactions in Medical Imaging, 33 (2): 384-399,
- 2014.
+ 
+\emph on
+"Quantitative comparison of reconstruction methods for intra-voxel fiber
+ recovery from diffusion MRI."
+\emph default
+ Transactions in Medical Imaging, 33 (2): 384-399, 2014.
  
 \end_layout
 
@@ -1637,8 +1672,11 @@ E.
 , J-C.
  Houde, and M.
  Descoteaux.
- "Tractometer: Towards Validation of Tractography Pipelines." Medical Image
- Analysis, 17 (7): 844-857, 2013.
+ 
+\emph on
+"Tractometer: Towards Validation of Tractography Pipelines."
+\emph default
+ Medical Image Analysis, 17 (7): 844-857, 2013.
 \end_layout
 
 \begin_layout Enumerate
@@ -1652,8 +1690,11 @@ Garyfallidis, E.
  Correia , G.B.
  Williams, I.
  Nimmo-Smith.
- "QuickBundles, a method for tractography simplification." Frontiers in Neuroscie
-nce, 6-175, 2012.
+ 
+\emph on
+"QuickBundles, a method for tractography simplification."
+\emph default
+ Frontiers in Neuroscience, 6-175, 2012.
  
 \end_layout
 
@@ -1668,9 +1709,12 @@ E.
 \series default
 , E.M.
  Castillo, A.C.
- Papanicolaou, “Extracting biomarkers of autism from MEG resting-state functiona
-l connectivity networks.”, Computers in biology and medicine 41(12): 1166-77,
- 2011.
+ Papanicolaou, 
+\emph on
+“Extracting biomarkers of autism from MEG resting-state functional connectivity
+ networks.”
+\emph default
+, Computers in biology and medicine 41(12): 1166-77, 2011.
  
 \end_layout
 
@@ -1687,9 +1731,12 @@ E.
  Odlaug, K.
  Craig, N.
  Fineberg, B.J.
- Sahakian, “Reduced brain white matter integrity in trichotillomania: a
- diffusion tensor imaging study.”, Archives of General Psychiatry 67(9):
- 965-71, 2010.
+ Sahakian,
+\emph on
+ “Reduced brain white matter integrity in trichotillomania: a diffusion
+ tensor imaging study.”
+\emph default
+, Archives of General Psychiatry 67(9): 965-71, 2010.
  
 \end_layout
 
@@ -2538,6 +2585,17 @@ Official OHBM 2015 exhibitor for DIPY.
 \end_layout
 
 \begin_layout Enumerate
+Consultant for R01 with P.I.
+ Prof.
+ Cameron Craddock from the Child Mind Institute, New York, 2015.
+\end_layout
+
+\begin_layout Enumerate
+Consultant for R01 with P.I.
+ Arno Klein from the University of Columbia, 2012.
+\end_layout
+
+\begin_layout Enumerate
 RBIQ Travelling Award for attending ISMRM 2014.
 \end_layout
 
@@ -2630,6 +2688,14 @@ status open
 
  Jul.
  2006) from the Computational Vision and Robotics Laboratory, FORTH, GR.
+\end_layout
+
+\begin_layout Enumerate
+Life member of Wolfson College, Cambridge, UK.
+\end_layout
+
+\begin_layout Enumerate
+Member of Quebec Neuroimaging Network, CA.
 \end_layout
 
 \begin_layout Standard
@@ -3406,6 +3472,20 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \size small
 \begin_inset Tabular
@@ -3460,7 +3540,7 @@ Telephone:
 \begin_inset Text
 
 \begin_layout Plain Layout
-+1-819-580-1456
++1 819 580 1456
 \end_layout
 
 \end_inset
