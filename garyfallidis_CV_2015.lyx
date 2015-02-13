@@ -509,7 +509,7 @@ GR
 \series bold
 \shape smallcaps
 \color blue
-Creator & Head Software Engineer
+Creator & Lead Software Engineer
 \end_layout
 
 \begin_layout Standard
@@ -2706,11 +2706,123 @@ height "1pt"
 \begin_layout Standard
 I am a professional software engineer.
  I have programmed in more than 20 different languages.
- I am a professional Python developer and experienced in C/C++ and Matlab.
+ I am a professional Python developer and experienced in C/C++ and Cython.
+ Apart from developing Dipy I have also worked extensively in scientific
+ visualization.
+ Here is project I developed in 2010 using Python and OpenGL.
 \end_layout
 
 \begin_layout Standard
 \begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="4">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2010 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 2012
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Free on Shades
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+medical imaging and network visualization library
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\begin_inset CommandInset href
+LatexCommand href
+target "fos.me"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset space \qquad{}
+\end_inset
+
+
+\begin_inset space \qquad{}
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="1">
+<features tabularvalignment="middle">
+<column alignment="block" valignment="top" width="15cm">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+A 3D visualization software library using OpenGL and the Python programming
+ language for extremely efficient and interactive experience of tractographies
+ from neuroanatomists.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
 \end_inset
 
 
