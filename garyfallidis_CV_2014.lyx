@@ -651,115 +651,6 @@ ty of the brain's white matter.
 \end_layout
 
 \begin_layout Standard
-\align block
-\begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="4">
-<features tabularvalignment="middle">
-<column alignment="left" valignment="top" width="0">
-<column alignment="left" valignment="top" width="0">
-<column alignment="left" valignment="top" width="0">
-<column alignment="left" valignment="top" width="0">
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-2010 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
---
-\end_layout
-
-\end_inset
-
- 2012
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-Free on Shades
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-medical imaging and network visualization library
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\series bold
-\begin_inset CommandInset href
-LatexCommand href
-target "fos.me"
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\align left
-\begin_inset space \qquad{}
-\end_inset
-
-
-\begin_inset space \qquad{}
-\end_inset
-
-
-\begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="1">
-<features tabularvalignment="middle">
-<column alignment="block" valignment="top" width="15cm">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-A 3D visualization software library using OpenGL and the Python programming
- language for extremely efficient and interactive experience of tractographies
- from neuroanatomists.
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset VSpace smallskip
 \end_inset
 
@@ -1528,6 +1419,44 @@ height "1pt"
 \begin_layout Enumerate
 
 \series bold
+Garyfallidis, E
+\series default
+., O.
+ Ocegueda, D.
+ Wassermann, M.
+ Descoteaux.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Robust and efficient linear registration of fascicles in the space of streamline
+s
+\begin_inset Quotes erd
+\end_inset
+
+, Neuroimage (under revision), 2015.
+\end_layout
+
+\begin_layout Enumerate
+Ocegueda, O., E.
+ Garyfallidis etc 
+\begin_inset Quotes eld
+\end_inset
+
+SYNECC
+\begin_inset Quotes erd
+\end_inset
+
+, Medical Image Analysis (submitted), 2015.
+\end_layout
+
+\begin_layout Enumerate
+Add paper with Emmanuele Renauld.XXXX
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
 Garyfallidis, E.
 \series default
 , M.
@@ -1687,6 +1616,99 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Garyfallidis, E.
+
+\series default
+ M-A Côté, J.
+ Hau, G.
+ Perchey, L.
+ Petit, S.
+ C.
+ Cunnanne, M.
+ Descoteaux.
+ 
+\begin_inset Quotes erd
+\end_inset
+
+Recognition of bundles in healthy and severely diseased brains
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Proceeding of: International Society of Magnetic Resonance in Medicine
+ (ISMRM), Toronto, Canada, 2015.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+C
+\backslash
+^ot
+\backslash
+'e
+\end_layout
+
+\end_inset
+
+, M-A., 
+\series bold
+E.
+ Garyfallidis
+\series default
+, H.
+ Larochelle, and M.
+ Descoteaux.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Cleaning up the mess: tractography outlier removal using hierarchical QuickBundl
+es clustering
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Proceeding of: International Society of Magnetic Resonance in Medicine
+ (ISMRM), Toronto, Canada, 2015.
+\end_layout
+
+\begin_layout Enumerate
+Add Omar's abstract XXX
+\end_layout
+
+\begin_layout Enumerate
+Add Chantal's abstract XXXX
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Garyfallidis, E.
+\series default
+, D.
+ Wassermann and M.
+ Descoteaux.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Direct native-space fiber bundle alignment for group comparisons
+\begin_inset Quotes erd
+\end_inset
+
+ Proceeding of: International Society of Magnetic Resonance in Medicine
+ (ISMRM).
+ Milan, Italy, 2014.
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -2196,6 +2218,12 @@ target "tinyurl.com/dipyfirst."
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+Interview with The Scientist Magazine
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace smallskip
 \end_inset
 
@@ -2214,7 +2242,7 @@ target "tinyurl.com/dipyfirst."
 \series bold
 \shape smallcaps
 \color blue
-Awards
+Awards/Honors
 \end_layout
 
 \begin_layout Standard
@@ -2254,6 +2282,10 @@ target "http://hardi.epfl.ch/static/events/2013_ISBI/workshop.html#results"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Enumerate
+Official OHBM 2015 exhibitor for DIPY.
 \end_layout
 
 \begin_layout Enumerate
@@ -4177,7 +4209,7 @@ BSc supervisor
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
