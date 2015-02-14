@@ -2475,11 +2475,18 @@ height "1pt"
 
 \begin_layout Standard
 
-\series bold
 \lang english
-Garyfallidis E
-\series default
-, Nimmo-Smith I (2010), 
+Presented at the 350th celebration of the Royal Society, London, UK.
+ In the presence of Her Majesty Queen Elizabeth II and His Royal Highness
+ the Duke of Edinburgh.
+ Video available at 
+\begin_inset CommandInset href
+LatexCommand href
+target "tinyurl.com/dipyfirst."
+
+\end_inset
+
+ The title of the presentation was 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2492,23 +2499,24 @@ Surfing your Brain Super-Highways
 \end_inset
 
 .
- Presented at the 350th celebration of the Royal Society, London, UK.
- In the presence of Her Majesty Queen Elizabeth II and His Royal Highness
- the Duke of Edinburgh.
- Video available at 
-\begin_inset CommandInset href
-LatexCommand href
-target "tinyurl.com/dipyfirst."
-
-\end_inset
-
  
 \end_layout
 
 \begin_layout Standard
 
 \lang english
-Interview with The Scientist Magazine
+Interviewed by The Scientist Magazine http://www.the-scientist.com/?articles.view/a
+rticleNo/41266/title/White-s-the-Matter/
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Documentary for SCIL 
+\end_layout
+
+\begin_layout Standard
+Video requested from France Telecom and interview requested from Aljazeera.
 \end_layout
 
 \begin_layout Standard
@@ -2562,7 +2570,8 @@ height "1pt"
 \end_layout
 
 \begin_layout Enumerate
-Winner of the international IEEE ISBI HARDI competition 2013.
+Winner of the international scientific competition: IEEE ISBI HARDI Challenge,
+ San Francisco, 2013.
 \begin_inset Newline newline
 \end_inset
 
@@ -2577,22 +2586,34 @@ target "http://hardi.epfl.ch/static/events/2013_ISBI/workshop.html#results"
 \end_layout
 
 \begin_layout Enumerate
-Invitated speaker for OHBM Diffusion MRI Educational course.
+Invitated speaker for OHBM Diffusion MRI Educational course, 2014.
 \end_layout
 
 \begin_layout Enumerate
-Official OHBM 2015 exhibitor for DIPY.
+Official OHBM exhibitor for DIPY, Honolulu, Hawaii, 2015.
 \end_layout
 
 \begin_layout Enumerate
-Consultant for R01 with P.I.
+Consultant for R01 of P.I.
  Prof.
  Cameron Craddock from the Child Mind Institute, New York, 2015.
 \end_layout
 
 \begin_layout Enumerate
-Consultant for R01 with P.I.
+Consultant for R01 of P.I.
  Arno Klein from the University of Columbia, 2012.
+\end_layout
+
+\begin_layout Enumerate
+Mentor in Google Summer of Code with the Python Software Foundation, 2015.
+\end_layout
+
+\begin_layout Enumerate
+Consultant in Startup Event, Microsoft Athens, 2012.
+\end_layout
+
+\begin_layout Enumerate
+Topic Editor in Frontiers in Human Neuroscience, 2014.
 \end_layout
 
 \begin_layout Enumerate
@@ -2840,7 +2861,7 @@ status open
 \begin_layout Plain Layout
 
 \series bold
-Security Analyst
+Security Analyst (White Hat)
 \end_layout
 
 \end_inset
@@ -2897,7 +2918,7 @@ status open
 \begin_layout Plain Layout
 
 \series bold
-Company Developer
+UI Developer
 \end_layout
 
 \end_inset
@@ -2963,7 +2984,7 @@ Sales/Promotion
 \begin_inset Text
 
 \begin_layout Plain Layout
-Golden Jewelery Shop, Athens, GR.
+Golden Jewelery Shop, Family business, Athens, GR.
 \end_layout
 
 \end_inset
@@ -3363,8 +3384,8 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-Crossfit, Swimming, Martial Arts, Trail running, Co-Founder of the Ultimate
- Workout.
+Swimming, Martial Arts, Freeletics, Co-Founder of the Ultimate Workout,
+ Cryptocurrencies.
 \end_layout
 
 \begin_layout Standard
