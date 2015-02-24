@@ -2319,9 +2319,8 @@ height "1pt"
 \begin_layout Enumerate
 Garyfallidis, E., D.
  Wassermann, and M.
- Descoteaux.
- "Direct native-space fiber bundle alignment for group comparisons." Internationa
-l Society of Magnetic Resonance in Medicine (ISMRM).
+ Descoteaux, "Direct native-space fiber bundle alignment for group comparisons",
+ International Society of Magnetic Resonance in Medicine (ISMRM).
  Milan, Italy.
  7796, 2014.
  
@@ -2505,18 +2504,14 @@ Surfing your Brain Super-Highways
 \begin_layout Standard
 
 \lang english
-Interviewed by The Scientist Magazine http://www.the-scientist.com/?articles.view/a
-rticleNo/41266/title/White-s-the-Matter/
-\end_layout
+Interviewed by The Scientist Magazine 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://www.the-scientist.com/?articles.view/articleNo/41266/title/White-s-the-Matter/"
 
-\begin_layout Standard
+\end_inset
 
-\lang english
-Documentary for SCIL 
-\end_layout
 
-\begin_layout Standard
-Video requested from France Telecom and interview requested from Aljazeera.
 \end_layout
 
 \begin_layout Standard
@@ -3056,7 +3051,7 @@ I am a professional software engineer.
  I am a professional Python developer and experienced in C/C++ and Cython.
  Apart from developing and leading the development of DIPY I have also worked
  extensively in scientific visualization.
- Here is project I developed in 2010 using Python and OpenGL.
+ Here is a project that I started developing in 2010 using Python and OpenGL.
 \end_layout
 
 \begin_layout Standard
@@ -3227,7 +3222,7 @@ height "1pt"
 
 \begin_layout Standard
 I have teached advanced courses in Machine Learning (Medical Research Council),
- Python Development for Medical Imaging (University of Sherbrooke) and tought
+ Python Development for Medical Imaging (University of Sherbrooke) and taught
  in summer schools for DIPY (CREATE/NSERC/QBIN).
  
 \end_layout
@@ -3858,7 +3853,7 @@ PhD 1st advisor
 \series bold
 \size small
 Dr.
- Matthew Brett
+ Matthew Brett, MD
 \end_layout
 
 \end_inset
@@ -4388,7 +4383,8 @@ PhD 2nd advisor
 
 \series bold
 \size small
-Professor Antonis Argyros
+Prof.
+ Antonis Argyros
 \end_layout
 
 \end_inset
@@ -4564,7 +4560,8 @@ MSc supervisor
 
 \series bold
 \size small
-Professor Nikolaos Vassilas
+Prof.
+ Nikolaos Vassilas
 \end_layout
 
 \end_inset
