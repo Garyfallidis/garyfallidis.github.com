@@ -342,9 +342,9 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-11 Journal publications, 20 conference proceedings, lead developer and creator
- of DIPY, H-index 8, 145 citations, 100+ collaborators, Cambridge doctorate,
- IEEE competition finalist.
+Cambridge doctorate, lead developer and inventor of DIPY, 11 journals, 20
+ conferences, h-index 8, 145 citations (growing exponentially), winner of
+ international competitions, 100+ collaborators.
  
 \end_layout
 
@@ -816,7 +816,7 @@ height "1pt"
 \begin_layout Standard
 \align block
 \begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="4">
+<lyxtabular version="3" rows="2" columns="4">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0">
 <column alignment="left" valignment="top" width="0">
@@ -827,7 +827,7 @@ height "1pt"
 \begin_inset Text
 
 \begin_layout Plain Layout
-2012 
+2014 
 \begin_inset ERT
 status open
 
@@ -862,11 +862,7 @@ Postdoctoral Researcher
 \begin_inset Quotes eld
 \end_inset
 
-Diffusion MRI Methods at the SCIL
-\begin_inset Quotes erd
-\end_inset
-
-
+White matter bundle analytics for 
 \end_layout
 
 \end_inset
@@ -875,7 +871,71 @@ Diffusion MRI Methods at the SCIL
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset space \negthinspace{}
+\end_inset
+
+
+\begin_inset space \negthinspace{}
+\end_inset
+
+
+\begin_inset space \negthinspace{}
+\end_inset
+
+
+\begin_inset space \negthinspace{}
+\end_inset
+
+
+\begin_inset space \negthinspace{}
+\end_inset
+
 University of Sherbrooke
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+fundamental dMRI and applications in aging
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -907,8 +967,272 @@ University of Sherbrooke
 \begin_inset Text
 
 \begin_layout Plain Layout
-Working on the development of new exciting methods at the Sherbrooke Connectivit
-y Imaging Lab (SCIL) under the supervision of Professor Maxime Descoteaux.
+Creating biomarkers for Alzheimer's disease using dMRI, advanced machine
+ learning and statistical methods applied on specific bundles.
+ Supervised by Professor Maxime Descoteaux (SCIL) and Professor Stephen
+ Cunnane (CDRV).
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="4">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<column alignment="left" valignment="top" width="0">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2012 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+--
+\end_layout
+
+\end_inset
+
+ 2014
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Postdoctoral Researcher 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+\begin_inset Quotes eld
+\end_inset
+
+Diffusion MRI methods for 
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+University of Sherbrooke
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\emph on
+direct registration of bundles
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset space \qquad{}
+\end_inset
+
+
+\begin_inset space \qquad{}
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="1">
+<features tabularvalignment="middle">
+<column alignment="block" valignment="top" width="15cm">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Working on the development of new methods for registration of white matter
+ fascicles at the Sherbrooke Connectivity Imaging Lab (SCIL) under the supervisi
+on of Professor Maxime Descoteaux.
 \end_layout
 
 \end_inset
@@ -1033,7 +1357,16 @@ The objective of this thesis was to improve on the methods for inferring
  neural tracts from diffusion weighted magnetic resonance imaging (dMRI).
  Accordingly, I presented advancements to the reconstruction, tracking,
  segmentation and registration modalities of dMRI analysis.
- The thesis is available for download at tinyurl.com/eleftherios-phd .
+ The thesis is available for download 
+\begin_inset CommandInset href
+LatexCommand href
+name "here"
+target "http://tinyurl.com/eleftherios-phd"
+
+\end_inset
+
+.
+ 
 \end_layout
 
 \end_inset
@@ -1506,7 +1839,14 @@ The purpose of this project was to encode and classify event related potentials
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
 \end_inset
 
 
@@ -1517,7 +1857,9 @@ The purpose of this project was to encode and classify event related potentials
 \series bold
 \shape smallcaps
 \color blue
-Journal Publications
+Journal Publications (11) Min I.F.
+ 2 - Max I.F.
+ 14
 \end_layout
 
 \begin_layout Standard
@@ -1595,7 +1937,7 @@ Symmetric Diffeomorphic Registration with Expected Cross-Correlation for
 \end_layout
 
 \begin_layout Enumerate
-Renauld, E.
+Renaud, E.
  M.
  Descoteaux, M.
  Bernier, 
@@ -1617,7 +1959,7 @@ Morphology of thalamus, LGN and optic radiation do not influence EEG alpha
 
 
 \emph default
-, Cortex (under submission), 2015.
+, Brain function and structure (submitted), 2015.
 \end_layout
 
 \begin_layout Enumerate
@@ -1829,11 +2171,10 @@ E.
 \end_inset
 
 
-\begin_inset VSpace smallskip
-\end_inset
+\end_layout
 
-
-\begin_inset VSpace smallskip
+\begin_layout Standard
+\begin_inset Newpage pagebreak
 \end_inset
 
 
@@ -1844,7 +2185,7 @@ E.
 \series bold
 \shape smallcaps
 \color blue
-Conference Publications
+Conference Publications (20)
 \end_layout
 
 \begin_layout Standard
@@ -2411,7 +2752,21 @@ Garyfallidis, E., D.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace smallskip
 \end_inset
 
 
@@ -2451,6 +2806,13 @@ height "1pt"
 
 \begin_layout Enumerate
 Garyfallidis E.
+ (Jun.
+ 2015), Mentor and speaker at HBM Hackathon 2015.
+ Invited by the Organization of Human Brain Mapping.
+\end_layout
+
+\begin_layout Enumerate
+Garyfallidis E.
  (Oct.
  2014), 
 \begin_inset Quotes eld
@@ -2462,6 +2824,9 @@ Hack the white matter with Dipy
 
 , Ignite speaker in Brainhack EDT (brainhack.org), University of Montreal,
  Canada.
+ Invited by Prof.
+ Pierre Bellec and Prof.
+ Julien Cohen-Adad.
 \end_layout
 
 \begin_layout Enumerate
@@ -2475,28 +2840,68 @@ Diffusion MRI workshop
 \end_inset
 
 , University of Verona, Italy.
+ Invited by Prof.
+ Gloria Menegaz.
 \end_layout
 
 \begin_layout Enumerate
 Garyfallidis E.
  (Mar.
  2013), “Quickbundles-based Segmentation”, Harvard University, USA.
- 
+ Invited by Prof.
+ Simon Warfield and Prof.
+ Carl Fredrik Westin.
 \end_layout
 
 \begin_layout Enumerate
 Garyfallidis E.
- (May 2013), “Diffusion imaging course with Dipy”, University of California
+ (May 2013), “Diffusion imaging course with DIPY”, University of California
  at Berkeley, USA.
- 
+ Invited by Prof.
+ Mark D'Esposito, MD and Dr.
+ Matthew Brett, MD.
+\end_layout
+
+\begin_layout Enumerate
+Garyfallidis E.
+ (May 2013), 
+\begin_inset Quotes eld
+\end_inset
+
+Beyond DIPY 0.7
+\begin_inset Quotes erd
+\end_inset
+
+, Stanford University, USA.
+ Invited by Prof.
+ Bob Dougherti and Dr.
+ Ariel Rokem.
+\end_layout
+
+\begin_layout Enumerate
+Garyfallidis E.
+ (June 2013), 
+\begin_inset Quotes eld
+\end_inset
+
+Python in Neuroimaging and DIPY course
+\begin_inset Quotes erd
+\end_inset
+
+, EPFL, Switzerland.
+ Invited by Prof.
+ Jean-Philippe Thiran and Dr.
+ Alessandro Dadducci.
 \end_layout
 
 \begin_layout Enumerate
 Garyfallidis E.
  (Sep.
- 2012), “DIPY 0.6 on the edge of diffusion MR analysis”, Cimec, FBK, Trento,
+ 2012), “DIPY 0.6 on the edge of diffusion MR analysis”, CIMEK, FBK, Trento,
  Italy.
- 
+ Invited by Prof.
+ Paolo Avesani and Dr.
+ Emanuelle Olivetti.
 \end_layout
 
 \begin_layout Enumerate
@@ -2504,6 +2909,9 @@ Garyfallidis E.
  (Jul.
  2012), “Accuracy in voxel reconstruction using dMRI”, Stanford University,
  USA.
+ Invited by Prof.
+ Bob Dougherti and Dr.
+ Ariel Rokem.
 \end_layout
 
 \begin_layout Standard
@@ -2556,19 +2964,21 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 
 \lang english
 Presented at the 350th celebration of the Royal Society, London, UK.
  In the presence of Her Majesty Queen Elizabeth II and His Royal Highness
  the Duke of Edinburgh.
- Video available at 
+ Video available 
 \begin_inset CommandInset href
 LatexCommand href
+name "here"
 target "tinyurl.com/dipyfirst."
 
 \end_inset
 
+.
  The title of the presentation was 
 \begin_inset Quotes eld
 \end_inset
@@ -2585,12 +2995,16 @@ Surfing your Brain Super-Highways
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 
 \lang english
-Interviewed by The Scientist Magazine 
+Interviewed by The Scientist Magazine .
+ The article was available on 1st Nov.
+ 2014.
+ Link available 
 \begin_inset CommandInset href
 LatexCommand href
+name "here."
 target "http://www.the-scientist.com/?articles.view/articleNo/41266/title/White-s-the-Matter/"
 
 \end_inset
@@ -2610,6 +3024,16 @@ target "http://www.the-scientist.com/?articles.view/articleNo/41266/title/White-
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset VSpace smallskip
 \end_inset
 
@@ -2649,19 +3073,16 @@ height "1pt"
 \end_layout
 
 \begin_layout Enumerate
-Winner of the international scientific competition: IEEE ISBI HARDI Challenge,
- San Francisco, 2013.
-\begin_inset Newline newline
-\end_inset
-
-
+Winner of the international scientific competition 
 \begin_inset CommandInset href
 LatexCommand href
+name "IEEE ISBI HARDI Challenge"
 target "http://hardi.epfl.ch/static/events/2013_ISBI/workshop.html#results"
 
 \end_inset
 
-
+, San Francisco, USA, 2013.
+ In the competition participated 14 teams including labs from EPFL and Harvard.
 \end_layout
 
 \begin_layout Enumerate
@@ -3063,7 +3484,7 @@ Sales/Promotion
 \begin_inset Text
 
 \begin_layout Plain Layout
-Golden Jewelery Shop, Family business, Athens, GR.
+Golden Jewelery Shop, family business, Athens, GR.
 \end_layout
 
 \end_inset
@@ -3375,6 +3796,13 @@ n, High Performance Computing, Statistical, Methods, and Complex Optimization.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 
 \series bold
 \shape smallcaps
@@ -3463,8 +3891,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-Swimming, Martial Arts, Freeletics, Co-Founder of the Ultimate Workout,
- Cryptocurrencies.
+Swimming, Martial Arts, Freeletics, Cryptocurrencies (bitcoins).
 \end_layout
 
 \begin_layout Standard
@@ -3518,7 +3945,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-Team player, Passionate, Friendly, Hard Working, Inventive.
+Team player, Passionate, Friendly, Hard Working, Determined, Inventive.
 \end_layout
 
 \begin_layout Standard
@@ -3589,7 +4016,7 @@ height "1pt"
 
 \size small
 \begin_inset Tabular
-<lyxtabular version="3" rows="21" columns="5">
+<lyxtabular version="3" rows="30" columns="5">
 <features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0">
 <column alignment="left" valignment="top" width="0">
@@ -3603,6 +4030,7 @@ height "1pt"
 \begin_layout Plain Layout
 
 \series bold
+\size small
 Prof.
  Maxime Descoteaux
 \end_layout
@@ -3613,6 +4041,8 @@ Prof.
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Position:
 \end_layout
 
@@ -3622,6 +4052,8 @@ Position:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Chair of Neuroinformatics
 \end_layout
 
@@ -3631,6 +4063,8 @@ Chair of Neuroinformatics
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Telephone:
 \end_layout
 
@@ -3640,6 +4074,8 @@ Telephone:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 +1 819 580 1456
 \end_layout
 
@@ -3669,6 +4105,8 @@ Telephone:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 University of Sherbrooke
 \end_layout
 
@@ -3678,6 +4116,8 @@ University of Sherbrooke
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 E-mail:
 \end_layout
 
@@ -3687,6 +4127,8 @@ E-mail:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 maxime.descoteaux@gmail.com
 \end_layout
 
@@ -3716,6 +4158,8 @@ maxime.descoteaux@gmail.com
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Sherbrooke, CA
 \end_layout
 
@@ -3725,6 +4169,8 @@ Sherbrooke, CA
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Relationship:
 \end_layout
 
@@ -3734,6 +4180,8 @@ Relationship:
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 Postdoc supervisor
 \end_layout
 
@@ -3771,7 +4219,7 @@ Position:
 \begin_layout Plain Layout
 
 \size small
-Head of Methods Group
+Former Head of Methods Group
 \end_layout
 
 \end_inset
@@ -4089,6 +4537,526 @@ Berkeley, US
 
 \size small
 Relationship: 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Collaborator
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size small
+Prof.
+ Daniel Alexander
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Position:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Professor of Imaging Science
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Telephone:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+UCL + ext.
+ 32419
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+University College London
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+E-mail:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+D.Alexander@cs.ucl.ac.uk
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+London, UK
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Relationship:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+PhD thesis examiner
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size small
+Prof.
+ Paolo Avesani
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Position:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Head of Neuroinformatics
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Telephone:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
++39
+\begin_inset space ~
+\end_inset
+
+046
+\begin_inset space ~
+\end_inset
+
+131
+\begin_inset space ~
+\end_inset
+
+4336
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Foundation Bruno Kessler
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+E-mail:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+avesani@fbk.eu
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Trento, IT
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Relationship:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Collaborator
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size small
+Prof.
+ Marco Catani
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Position:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Clinical Senior Lecturer 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Telephone:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
++44
+\begin_inset space ~
+\end_inset
+
+207
+\begin_inset space ~
+\end_inset
+
+848
+\begin_inset space ~
+\end_inset
+
+0984
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Kings College London
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+E-mail:
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+m.catani@iop.kcl.ac.uk
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+London, UK
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+Relationship:
 \end_layout
 
 \end_inset
@@ -4836,7 +5804,7 @@ BSc supervisor
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
