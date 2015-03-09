@@ -313,6 +313,54 @@ None
 \series bold
 \shape smallcaps
 \color blue
+Summary
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace -0.2cm
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace -0.1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+11 Journal publications, 20 conference proceedings, lead developer and creator
+ of DIPY, H-index 8, 145 citations, 100+ collaborators, Cambridge doctorate,
+ IEEE competition finalist.
+ 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\begin_inset VSpace -0.1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\shape smallcaps
+\color blue
 Education
 \end_layout
 
