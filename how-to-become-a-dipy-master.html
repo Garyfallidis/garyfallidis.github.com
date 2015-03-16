@@ -13,13 +13,13 @@
 <link rel="canonical" href="/how-to-become-a-dipy-master.html">
 
         <meta name="author" content="Eleftherios Garyfallidis" />
-        <meta name="description" content="This a question that I get very often. How can I contribute to Dipy or how can I become a power user. In this post I am providing the necessary learning materials to master Python, code sharing and diffusion MRI analysis with Dipy. Start from the basics Learn Python I ..." />
+        <meta name="description" content="This a question that I get very often. How can I contribute to Dipy or how can I become a really good user of Dipy? In this post I am providing the necessary learning materials to master Python, code sharing and do diffusion MRI analysis with Dipy. Contents Start from ..." />
 
         <meta property="og:site_name" content="Eleftherios Garyfallidis, PhD" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="How to become a Dipy Master!"/>
         <meta property="og:url" content="/how-to-become-a-dipy-master.html"/>
-        <meta property="og:description" content="This a question that I get very often. How can I contribute to Dipy or how can I become a power user. In this post I am providing the necessary learning materials to master Python, code sharing and diffusion MRI analysis with Dipy. Start from the basics Learn Python I ..."/>
+        <meta property="og:description" content="This a question that I get very often. How can I contribute to Dipy or how can I become a really good user of Dipy? In this post I am providing the necessary learning materials to master Python, code sharing and do diffusion MRI analysis with Dipy. Contents Start from ..."/>
         <meta property="article:published_time" content="2015-03-15" />
             <meta property="article:section" content="blog" />
             <meta property="article:author" content="Eleftherios Garyfallidis" />
@@ -106,48 +106,77 @@ Eleftherios Garyfallidis, PhD            </a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>This a question that I get very often. How can I contribute to Dipy or how can I become a power user. In this post I am providing the necessary learning materials to master Python, code sharing and diffusion <span class="caps">MRI</span> analysis with&nbsp;Dipy.</p>
+                <p>This a question that I get very often. How can I contribute to <a class="reference external" href="http://dipy.org">Dipy</a> or how can I become a really good user of&nbsp;Dipy?</p>
+<p>In this post I am providing the necessary learning materials to master Python, code sharing and do diffusion <span class="caps">MRI</span> analysis with&nbsp;Dipy.</p>
+<div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#start-from-the-basics" id="id1">Start from the basics</a><ul>
+<li><a class="reference internal" href="#learn-python" id="id2">Learn&nbsp;Python</a></li>
+<li><a class="reference internal" href="#learn-how-to-do-data-analysis-in-python" id="id3">Learn how to do data analysis in&nbsp;Python</a></li>
+<li><a class="reference internal" href="#learn-the-basics-of-diffusion-mri-and-dipy" id="id4">Learn the basics of Diffusion <span class="caps">MRI</span> and&nbsp;Dipy</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#learn-git-github" id="id5">Learn Git/Github</a><ul>
+<li><a class="reference internal" href="#git-github" id="id6">Git/Github</a></li>
+<li><a class="reference internal" href="#quick-guidelines" id="id7">Quick&nbsp;guidelines</a></li>
+<li><a class="reference internal" href="#in-practice" id="id8">In&nbsp;practice</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#coding-policies" id="id9">Coding Policies</a><ul>
+<li><a class="reference internal" href="#coding-style" id="id10">Coding&nbsp;style</a></li>
+<li><a class="reference internal" href="#coding-philosophy" id="id11">Coding&nbsp;philosophy</a></li>
+<li><a class="reference internal" href="#tutorials" id="id12">Tutorials</a></li>
+<li><a class="reference internal" href="#testing" id="id13">Testing</a></li>
+<li><a class="reference internal" href="#more-questions" id="id14">More&nbsp;Questions?</a></li>
+</ul>
+</li>
+</ul>
+</div>
 <div class="section" id="start-from-the-basics">
-<h2>Start from the&nbsp;basics</h2>
+<h2><a class="toc-backref" href="#id1">Start from the&nbsp;basics</a></h2>
 <div class="section" id="learn-python">
-<h3>Learn&nbsp;Python</h3>
-<p>I recommend taking one of the free online interactive courses. Look for example at learning Python from Codecademy. You should know the basics of
-programming with Python in 10-14&nbsp;hours.</p>
+<h3><a class="toc-backref" href="#id2">Learn&nbsp;Python</a></h3>
+<p>I recommend taking one of the free online interactive courses. Look for example at learning Python from Codecademy. You should be able the learn the basics of programming with Python in 10-14&nbsp;hours.</p>
 </div>
 <div class="section" id="learn-how-to-do-data-analysis-in-python">
-<h3>Learn how to do data analysis in&nbsp;Python</h3>
-<p>Have a read at the Python for data analysis boook from Wes McKinney. Focus on chapters 3, 4, 8 and 12. This book explains how to use&nbsp;Numpy.</p>
+<h3><a class="toc-backref" href="#id3">Learn how to do data analysis in&nbsp;Python</a></h3>
+<p>Have a read at the <tt class="docutils literal">Python for data analysis</tt> boook from Wes McKinney. Focus on chapters 3, 4, 8 and 12. This book explains how to use Numpy and IPython. You will find these tools
+helpful in many areas of imaging beyond diffusion <span class="caps">MRI</span>.</p>
 </div>
 <div class="section" id="learn-the-basics-of-diffusion-mri-and-dipy">
-<h3>Learn the basics of Diffusion <span class="caps">MRI</span> and&nbsp;Dipy</h3>
-<p>Learn the basics of Dipy and diffusion <span class="caps">MRI</span> by reading the <a class="reference external" href="http://journal.frontiersin.org/article/10.3389/fninf.2014.00008/abstract">Frontiers paper</a>.</p>
-<p>Read the Dipy tutorials  and your expertize in analyzing dMRI will grow up&nbsp;quickly.</p>
-<p><a class="reference external" href="http://dipy.org/examples_index.html">http://dipy.org/examples_index.html</a></p>
+<h3><a class="toc-backref" href="#id4">Learn the basics of Diffusion <span class="caps">MRI</span> and&nbsp;Dipy</a></h3>
+<p>Learn the basics of Dipy and diffusion <span class="caps">MRI</span> by reading this <a class="reference external" href="http://journal.frontiersin.org/article/10.3389/fninf.2014.00008/abstract">Frontiers paper</a>.</p>
+<p>Read the <a class="reference external" href="http://dipy.org/examples_index.html">Dipy tutorials</a> and your expertize in analyzing dMRI data will grow very&nbsp;quickly.</p>
 </div>
 </div>
 <div class="section" id="learn-git-github">
-<h2>Learn&nbsp;Git/Github</h2>
+<h2><a class="toc-backref" href="#id5">Learn&nbsp;Git/Github</a></h2>
+<p>This information is useful mostly to those who want to contribute Dipy by sharing their&nbsp;code.</p>
 <div class="section" id="git-github">
-<h3>Git/Github</h3>
-<p>Use and learn git and github. Read the tutorials (understand the concept of pull requests). Here are some nice&nbsp;links.</p>
-<p><a class="reference external" href="https://try.github.io">https://try.github.io</a>
-<a class="reference external" href="http://pcottle.github.io/learnGitBranching/">http://pcottle.github.io/learnGitBranching/</a>
-<a class="reference external" href="http://dipy.org/devel/index.html">http://dipy.org/devel/index.html</a></p>
+<h3><a class="toc-backref" href="#id6">Git/Github</a></h3>
+<p>Use and learn git and github. Give a go to the interactive courses&nbsp;below</p>
+<p><a class="reference external" href="https://try.github.io">https://try.github.io</a></p>
+<p><a class="reference external" href="http://pcottle.github.io/learnGitBranching/">http://pcottle.github.io/learnGitBranching/</a></p>
+<p>Understand the concept of pull requests. Here is a nice&nbsp;tutorial.</p>
+<p><a class="reference external" href="http://dipy.org/devel/index.html">http://dipy.org/devel/index.html</a></p>
 </div>
 <div class="section" id="quick-guidelines">
-<h3>Quick&nbsp;guidelines</h3>
+<h3><a class="toc-backref" href="#id7">Quick&nbsp;guidelines</a></h3>
+<p><a class="reference external" href="https://github.com/nipy/dipy/">Dipy&#8217;s code base</a> is available in <a class="reference external" href="https://github.com">Github</a>. You will need to create an account in Github to be able to share code with&nbsp;Dipy.</p>
+<p>Here we provide a quick summary of the process of sharing your code in&nbsp;Github.</p>
 <ol class="arabic simple">
 <li>Fork nipy/dipy from&nbsp;github</li>
-<li>Clone your fork version (git&nbsp;clone)</li>
+<li>Clone your forked version (using git&nbsp;clone)</li>
 <li>Start working on a new branch from your cloned forked&nbsp;version.</li>
 <li>After your branch is finished. I mean you commited all&nbsp;changes.</li>
 <li>Push your changes in your github account and make a pull&nbsp;request.</li>
-<li>Then we will give you advice and you can make the suggested&nbsp;corrections</li>
+<li>Then the Dipy  give you advice and you can make the suggested&nbsp;corrections</li>
 <li>we merge your&nbsp;project.</li>
 </ol>
 </div>
 <div class="section" id="in-practice">
-<h3>In&nbsp;practice</h3>
+<h3><a class="toc-backref" href="#id8">In&nbsp;practice</a></h3>
 <p>After forking nipy/dipy from github in your own github space (assuming your username in github is david)&nbsp;do:</p>
 <div class="highlight"><pre><span class="c"># clone your fork</span>
 git clone https://github.com/david/dipy.git
@@ -161,37 +190,45 @@ git checkout nipy-dipy-master
 git pull
 
 <span class="c"># create a branch from the last dev version of the tracking branch above</span>
-<span class="c"># let’s call this branch amico</span>
-git branch amico
-git checkout amico
+<span class="c"># let’s call this branch new_tracking_feature</span>
+git branch new_tracking_feature
+git checkout new_tracking_feature
 
 <span class="c"># add and commit your changes</span>
 git add …
 git commit …
-git push origin amico
+git push origin new_tracking_feature
 </pre></div>
-<p>When ready make a Pull request from github. You just need to press the green button from your github repo and write a title and a small description of what you are&nbsp;writing.</p>
+<p>Afte you have finished pushing all your changes you are ready to make a pull request from github. You just need to press the green button from your github repo and write a title and a small description of what you are sharing with&nbsp;us.</p>
+<p>After the pull request has arrived, the Dipy developers will review it and give you comments
+so you can improve your&nbsp;code.</p>
 </div>
+</div>
+<div class="section" id="coding-policies">
+<h2><a class="toc-backref" href="#id9">Coding&nbsp;Policies</a></h2>
 <div class="section" id="coding-style">
-<h3>Coding&nbsp;style</h3>
+<h3><a class="toc-backref" href="#id10">Coding&nbsp;style</a></h3>
 <p>Readability and reproducibility of code is very important in Dipy therefore we suggest to use the following coding&nbsp;style</p>
-<p><a class="reference external" href="https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt">https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt</a>
-<a class="reference external" href="https://www.python.org/dev/peps/pep-0008/">https://www.python.org/dev/peps/pep-0008/</a></p>
+<p><a class="reference external" href="https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt">https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt</a></p>
+<p><a class="reference external" href="https://www.python.org/dev/peps/pep-0008/">https://www.python.org/dev/peps/pep-0008/</a></p>
 <p>The Spyder python editor has some tools automated to check for <span class="caps">PEP8</span> issues. I would recommend using such an editor until you get used to the&nbsp;style.</p>
 </div>
 <div class="section" id="coding-philosophy">
-<h3>Coding&nbsp;philosophy</h3>
+<h3><a class="toc-backref" href="#id11">Coding&nbsp;philosophy</a></h3>
 <p><a class="reference external" href="https://www.python.org/dev/peps/pep-0020/">https://www.python.org/dev/peps/pep-0020/</a></p>
 </div>
 <div class="section" id="tutorials">
-<h3>Tutorials</h3>
+<h3><a class="toc-backref" href="#id12">Tutorials</a></h3>
 <p>You will need to write a tutorial to communicate your contribution to the coders and the users of Dipy. See examples in&nbsp;doc/examples</p>
 </div>
 <div class="section" id="testing">
-<h3>Testing</h3>
+<h3><a class="toc-backref" href="#id13">Testing</a></h3>
 <p>Dipy is a highly tested library and we plan to keep it this way and make it even better. Make sure you have individual tests for all your functions (test coverage should be close to&nbsp;100%).</p>
-<p>Look for inspiration in dipy/reconst/tests
-Especially the file&nbsp;dipy/reconst/test/test_csdeconv.py</p>
+<p>Look for inspiration in dipy/reconst/tests For example, see how the tests are written in the file&nbsp;dipy/reconst/test/test_csdeconv.py</p>
+</div>
+<div class="section" id="more-questions">
+<h3><a class="toc-backref" href="#id14">More&nbsp;Questions?</a></h3>
+<p>Send an e-mail to <a class="reference external" href="https://neurostars.org">Neurostars</a> or subscribe to the <a class="reference external" href="http://mail.scipy.org/mailman/listinfo/nipy-devel">Nipy-devel list</a>.</p>
 </div>
 </div>
 
