@@ -343,7 +343,7 @@ height "1pt"
 
 \begin_layout Standard
 Cambridge doctorate, lead developer and inventor of DIPY, 11 journals, 20
- conferences, h-index 8, 145 citations (growing exponentially), winner of
+ conferences, h-index 8, 181 citations (growing exponentially), winner of
  international competitions, 100+ collaborators.
  
 \end_layout
@@ -1908,7 +1908,7 @@ s
 
 
 \emph default
-, Neuroimage (under revision), 2015.
+, Neuroimage, 117:124-140, 2015.
 \end_layout
 
 \begin_layout Enumerate
@@ -2744,11 +2744,44 @@ height "1pt"
 \begin_layout Enumerate
 Garyfallidis, E., D.
  Wassermann, and M.
- Descoteaux, "Direct native-space fiber bundle alignment for group comparisons",
- International Society of Magnetic Resonance in Medicine (ISMRM).
+ Descoteaux, 
+\begin_inset Quotes eld
+\end_inset
+
+Direct native-space fiber bundle alignment for group comparisons
+\begin_inset Quotes erd
+\end_inset
+
+, International Society of Magnetic Resonance in Medicine (ISMRM).
  Milan, Italy.
  7796, 2014.
  
+\end_layout
+
+\begin_layout Enumerate
+Speaker at the OHBM Educational course MR Diffusion Imaging: Getting Your
+ Measures Right, 
+\begin_inset Quotes eld
+\end_inset
+
+Diffusion tractography
+\begin_inset Quotes erd
+\end_inset
+
+, Hamburg, June 2014.
+\end_layout
+
+\begin_layout Enumerate
+Speaker at the OHBM Educational course MR Diffusion Imaging: Getting Your
+ Measures Right, 
+\begin_inset Quotes eld
+\end_inset
+
+Connectivity and tract-analysis
+\begin_inset Quotes erd
+\end_inset
+
+, Honolulu, June 2015.
 \end_layout
 
 \begin_layout Standard
@@ -2802,13 +2835,6 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Enumerate
-Garyfallidis E.
- (Jun.
- 2015), Mentor and speaker at HBM Hackathon 2015.
- Invited by the Organization of Human Brain Mapping.
 \end_layout
 
 \begin_layout Enumerate
@@ -3082,15 +3108,17 @@ target "http://hardi.epfl.ch/static/events/2013_ISBI/workshop.html#results"
 \end_inset
 
 , San Francisco, USA, 2013.
- In the competition participated 14 teams including labs from EPFL and Harvard.
-\end_layout
-
-\begin_layout Enumerate
-Invitated speaker for OHBM Diffusion MRI Educational course, 2014.
+ 
 \end_layout
 
 \begin_layout Enumerate
 Official OHBM exhibitor for DIPY, Honolulu, Hawaii, 2015.
+\end_layout
+
+\begin_layout Enumerate
+Mentor and speaker at OHBM Hackathon 2015 together with Dr.
+ Ariel Rokem.
+ 
 \end_layout
 
 \begin_layout Enumerate
@@ -3105,7 +3133,7 @@ Consultant for R01 of P.I.
 \end_layout
 
 \begin_layout Enumerate
-Mentor in Google Summer of Code with the Python Software Foundation, 2015.
+Mentor in Google Summer of Code and the Python Software Foundation, 2015.
 \end_layout
 
 \begin_layout Enumerate
