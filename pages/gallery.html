@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Gallery - Eleftherios Garyfallidis, PhD</title>
+    <title>Gallery - Eleftherios</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -13,13 +13,13 @@
 <link rel="canonical" href="/pages/gallery.html">
 
         <meta name="author" content="Eleftherios Garyfallidis" />
-        <meta name="description" content="Honolulu, Hawaii 2015 During OHBM 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of Google Summer of Code (GSoC) students that I am mentoring this year with DIPY. We had some great fun with Julio in the booth talking with people but also during ..." />
+        <meta name="description" content="Honolulu, Hawaii 2015 During OHBM 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of Google Summer of Code (GSoC) students and a PhD student at Paul Thompson’s group at USC. I am mentoring him this year with DIPY for GSoC. We had some ..." />
 
-    <meta property="og:site_name" content="Eleftherios Garyfallidis, PhD" />
+    <meta property="og:site_name" content="Eleftherios" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Gallery"/>
     <meta property="og:url" content="/pages/gallery.html"/>
-    <meta property="og:description" content="Honolulu, Hawaii 2015 During OHBM 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of Google Summer of Code (GSoC) students that I am mentoring this year with DIPY. We had some great fun with Julio in the booth talking with people but also during ..." />
+    <meta property="og:description" content="Honolulu, Hawaii 2015 During OHBM 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of Google Summer of Code (GSoC) students and a PhD student at Paul Thompson’s group at USC. I am mentoring him this year with DIPY for GSoC. We had some ..." />
 
 
     <!-- Bootstrap -->
@@ -31,6 +31,39 @@
     <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
 
 
+    <!-- Google charts -->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+          google.load("visualization", "1", {packages:["geochart"]});
+          google.setOnLoadCallback(drawRegionsMap);
+
+          function drawRegionsMap() {
+
+            var data = google.visualization.arrayToDataTable([
+              ['Country', 'Popularity'],
+              ['Canada', 30],
+              ['United States', 40],
+              ['Brazil', 1],
+              ['Germany', 2],
+              ['Greece', 1],
+              ['Mexico', 4],
+              ['Colombia', 1],
+              ['South Africa', 1],
+              ['United Kingdom', 20],
+              ['Italy', 5],
+              ['France', 10],
+              ['Algeria', 2],
+              ['Greece', 5],
+              ['Australia', 1]
+            ]);
+
+            var options = {colors: ['#FF9900']};
+
+            var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+            chart.draw(data, options);
+          }
+        </script>   
 </head>
 <body>
 
@@ -44,18 +77,21 @@
                 <span class="icon-bar"></span>
             </button>
             <a href="/" class="navbar-brand">
-Eleftherios Garyfallidis, PhD            </a>
+Eleftherios            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="/pages/about.html">
-                             About
+                         <li><a href="/pages/bio.html">
+                             Bio
                           </a></li>
                          <li class="active"><a href="/pages/gallery.html">
                              Gallery
                           </a></li>
                          <li><a href="/pages/publications.html">
                              Publications
+                          </a></li>
+                         <li><a href="/pages/research.html">
+                             Research
                           </a></li>
                         <li >
                             <a href="/category/blog.html">Blog</a>
@@ -71,9 +107,19 @@ Eleftherios Garyfallidis, PhD            </a>
 
 <div class="container">
   <div class="jumbotron">
-    <h1>Building the tools to discover the super-highways of the human brain.</h1>
+    <h1>On the cutting edge to discover the neuronal pathways of the human brain.</h1>
   </div>
 </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
+
 
 <!-- Banner -->
 <!-- End Banner -->
@@ -87,15 +133,36 @@ Eleftherios Garyfallidis, PhD            </a>
         <div class="entry-content">
             <div class="section" id="honolulu-hawaii-2015">
 <h2>Honolulu, Hawaii&nbsp;2015</h2>
-<p>During <span class="caps">OHBM</span> 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of  Google Summer of Code (GSoC) students that I am mentoring this year with <span class="caps">DIPY</span>.</p>
+<p>During <span class="caps">OHBM</span> 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of Google Summer of Code (GSoC) students and a PhD student at Paul Thompson&#8217;s group at <span class="caps">USC</span>.
+I am mentoring him this year with <span class="caps">DIPY</span> for&nbsp;GSoC.</p>
 <img alt="alternate text" class="align-right" src="../images/julio_eleftherios_OHBM2015.jpg" style="width: 60.0em;" />
 <p>We had some great fun with Julio in the booth talking with people but also during the <span class="caps">OHBM</span>&nbsp;hackathon!</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 </div>
 <div class="section" id="toronto-canada-2015">
 <h2>Toronto, Canada&nbsp;2015</h2>
 <p>During <span class="caps">ISMRM</span> 2015 together with some of the younger members of the <span class="caps">DIPY</span> crew. From left to right you see Jean Christophe Houde, Gabriel Girard, Eleftherios Garyfallidis, Marc-Alex Cote and Francois&nbsp;Rheault.</p>
 <img alt="alternate text" class="align-right" src="../images/part_of_dipy_crew_ISMRM2015.jpg" style="width: 60.0em;" />
-<p>Keep&nbsp;hacking!</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>With Rafael Henriques who is participating at GSoC 2015 with <span class="caps">DIPY</span>. Rafael is a PhD student at the University of&nbsp;Cambridge.</p>
+<img alt="alternate text" class="align-right" src="../images/elef_and_rafael.jpg" style="width: 60.0em;" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="cambridge-uk-2012">
+<h2>Cambridge, <span class="caps">UK</span>&nbsp;2012</h2>
+<p>During my PhD graduation. A happy&nbsp;man!</p>
+<img alt="alternate text" class="align-right" src="../images/phd_graduation.jpg" style="width: 60.0em;" />
+</div>
+<div class="section" id="cambridge-uk-2011">
+<h2>Cambridge, <span class="caps">UK</span>&nbsp;2011</h2>
+<p>My PhD supervisor Dr. Ian Nimmo-Smith becomes Mayor of&nbsp;Cambridge!</p>
+<img alt="alternate text" class="align-right" src="../images/elef_and_ian.jpg" style="width: 60.0em;" />
 </div>
 
         </div>

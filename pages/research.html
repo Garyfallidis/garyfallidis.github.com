@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en"
+>
+<head>
+    <title>Research - Eleftherios</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="/pages/research.html">
+
+        <meta name="author" content="Eleftherios Garyfallidis" />
+        <meta name="description" content="My research topics are: medical imaging, machine learning, signal processing, scientific visualization and software engineering. More specifically, I focus on the development of new methods from these topics applied to diffusion MRI analysis for generic applications e.g., understanding the structural connectivity of the brain and specific applications e.g ..." />
+
+    <meta property="og:site_name" content="Eleftherios" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Research"/>
+    <meta property="og:url" content="/pages/research.html"/>
+    <meta property="og:description" content="My research topics are: medical imaging, machine learning, signal processing, scientific visualization and software engineering. More specifically, I focus on the development of new methods from these topics applied to diffusion MRI analysis for generic applications e.g., understanding the structural connectivity of the brain and specific applications e.g ..." />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.hiro.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+        <link href="/theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+    <!-- Google charts -->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+          google.load("visualization", "1", {packages:["geochart"]});
+          google.setOnLoadCallback(drawRegionsMap);
+
+          function drawRegionsMap() {
+
+            var data = google.visualization.arrayToDataTable([
+              ['Country', 'Popularity'],
+              ['Canada', 30],
+              ['United States', 40],
+              ['Brazil', 1],
+              ['Germany', 2],
+              ['Greece', 1],
+              ['Mexico', 4],
+              ['Colombia', 1],
+              ['South Africa', 1],
+              ['United Kingdom', 20],
+              ['Italy', 5],
+              ['France', 10],
+              ['Algeria', 2],
+              ['Greece', 5],
+              ['Australia', 1]
+            ]);
+
+            var options = {colors: ['#FF9900']};
+
+            var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+            chart.draw(data, options);
+          }
+        </script>   
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+Eleftherios            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="/pages/bio.html">
+                             Bio
+                          </a></li>
+                         <li><a href="/pages/gallery.html">
+                             Gallery
+                          </a></li>
+                         <li><a href="/pages/publications.html">
+                             Publications
+                          </a></li>
+                         <li class="active"><a href="/pages/research.html">
+                             Research
+                          </a></li>
+                        <li >
+                            <a href="/category/blog.html">Blog</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>On the cutting edge to discover the neuronal pathways of the human brain.</h1>
+  </div>
+</div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
+
+
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content" class="body">
+        <h1 class="entry-title">Research</h1>
+        
+        <div class="entry-content">
+            <p>My research topics are: medical imaging, machine learning, signal processing, scientific visualization and software engineering. More specifically, I focus on the development of new methods from these topics applied to diffusion <span class="caps">MRI</span> analysis for generic applications e.g., understanding the structural connectivity of the brain and specific applications e.g., Alzheimer&#8217;s disease, obsessive compulsive disorder or brain&nbsp;tumors.</p>
+<div class="section" id="summary-of-research-contributions">
+<h2>Summary of research&nbsp;contributions</h2>
+<p>I have contributed new methods for nearly every level of diffusion <span class="caps">MRI</span> analysis: voxel reconstruction, fiber tracking, tractography segmentation, and registration of bundles and images. Recently I have been looking into the problem of statistical analysis of bundles. However, the areas for which I believe I have contributed the most are those of (a) tractography segmentation with the invention of QuickBundles <a class="footnote-reference" href="#id11" id="id1">[2]</a> and (b) registration of fascicles with the invention of Streamline-based Linear Registration (<span class="caps">SLR</span>) <a class="footnote-reference" href="#id12" id="id2">[3]</a>. Finally, I have contributed to making available cutting-edge methods to the scientific community by creating, developing and managing the Diffusion Imaging in Python (<span class="caps">DIPY</span>) <a class="footnote-reference" href="#id10" id="id3">[1]</a> project which has an enthusiastic and active team of 34+ contributors from different labs around the&nbsp;world.</p>
+<p>These days I am working on improving the analysis methods of diffusion <span class="caps">MRI</span>. More specifically, working on analyzing the output of fiber tracking algorithms. Currently, there are some important open problems with fiber tracking: a) it is difficult to assess the quality of fiber tracking, b) it is very time consuming for neuroscientists to interact with the output fiber tracks and extract bundles of interest, c) the analysis procedures for group comparisons are underdeveloped compared to the richness of information available in modern diffusion datasets. I am confident that these problems can be solved or improved considerably by creating methods that can automatically or semi-automatically discover bundles and do statistical analysis directly on these bundles rather than on the entire brain as is mostly used today. I separate my methodology into two sections; bundle recognition and bundle&nbsp;analytics.</p>
+</div>
+<div class="section" id="bundle-recognition-detection-and-discovery">
+<h2>Bundle recognition, detection and&nbsp;discovery</h2>
+<p>In May 2015, I presented a new method at the International Symposium of Magnetic Resonance in Medicine (<span class="caps">ISMRM</span>) that is able to detect bundles automatically given a model of a bundle. For example, if a neuroanatomist segments manually the uncinate fascicle in one brain (see Fig. 1A), she can use my new method to automatically detect the uncinate in other brains. The method is as good as and often better than having the expert doing the segmentations manually and can be used even in brains with large aggressive tumours. See for example how we automatically detect the corticospinal tract (<span class="caps">CST</span>) in a patient with a grade 3 glioma (Fig.&nbsp;1B).</p>
+<img alt="alternate text" class="align-right" src="../images/recognize_bundles.png" style="width: 30.0em;" />
+<p>This novel method opens new horizons on performing and automating segmentation of white matter. I am now improving this method and exploring its potentials with my colleagues so that in the next years we have as many bundles as possible automatically identified in a clinically acceptable timescale. For example, a neurosurgeon operating on the patient of Fig. 1B could immediately see the <span class="caps">CST</span> bundle and avoid damaging it while operating to remove the&nbsp;tumor.</p>
+<p>Furthermore, a new better version of this method could be used to discover bundles that are not commonly reported in the literature. For example, Catani et al. <a class="footnote-reference" href="#id17" id="id4">[8]</a> recently discovered the frontal aslant tract and Yeatman et al. <a class="footnote-reference" href="#id18" id="id5">[9]</a> rediscovered the vertical occipital fasciculus which had not been reported in the literature for decades. These scientists managed to discover these bundles after large amount of tedious manual work. I believe that discovery of bundles can be fully automated and we be able to build a dynamic and ever updating atlas of bundles in the same way that, in astronomy, there are satellites which discover new stars not previously&nbsp;recorded.</p>
+<!-- Figure 1: Discovering bundles in healthy and severely diseased brains. -->
+<!-- Bundle analytics -->
+</div>
+<div class="section" id="registration-of-bundles">
+<h2>Registration of&nbsp;bundles</h2>
+<p>Recently, I invented a method that allows researchers to register bundles of the same type directly between subjects <a class="footnote-reference" href="#id12" id="id6">[3]</a>,[4]_ and create templates of bundles of the same type for group comparisons. For example in Fig. 2 we show how we created a probabilistic atlas of the optic radiation using our novel registration&nbsp;method.</p>
+<img alt="alternate text" class="align-left" src="../images/slr_full_brain.jpg" style="width: 30.0em;" />
+<p>During the next years, using this method, I plan to create a new statistical analysis method for group comparisons which will give a much more detailed information about the differences found in these bundles from what is available today. For example, I will look at analyzing specific parts of the bundles by looking at microstructure properties like axonal diameter <a class="footnote-reference" href="#id16" id="id7">[7]</a> or more common measures like fractional anisotropy and mean&nbsp;diffusivity.</p>
+<p>I am hoping in this way to create a new framework for group comparisons which will be more informative and scientifically sound that the current state-of-the-art, e.g., tract-based statistics (<span class="caps">TBSS</span>) <a class="footnote-reference" href="#id14" id="id8">[5]</a> and tract specific analysis (<span class="caps">TSA</span>)[6]_. I call this new field bundle analytics because it includes machine learning, mathematical optimization and statistical analysis all as one compact automated&nbsp;solution.</p>
+</div>
+<div class="section" id="improving-human-health-with-translational-outcomes">
+<h2>Improving human health with translational&nbsp;outcomes</h2>
+<p>Until today, I worked with my collaborators in examining traumatic brain injury, trichotillomania and autism using dMRI (see publications in my <span class="caps">CV</span>). However, during the last year of my Postdoctoral fellowship I collaborated on an exciting aging study with Prof. Stephen Cunnane <a class="footnote-reference" href="#id19" id="id9">[10]</a> testing the hypothesis that a ketone enriched diet can reduce the effects of Alzheimer’s disease. This project is possibly leading to an important new approach for characterising the neuroanatomical features of the progression with a biomarker based on identifying microstructural changes in specific bundles. I believe, similar hypotheses can be tested for many other diseases. I am looking forward for ideas and collaborations from the different experts, who have accumulated decades of expertise looking into how the brain functions, so that we can clearly extend the clinical usage of dMRI from mainly used as a method for examining stroke, into creating new generations of advanced biomarkers which can evaluate therapies. I believe this is a realistic expectation and we should be able to show this in the coming&nbsp;years.</p>
+</div>
+<div class="section" id="references">
+<h2>References</h2>
+<table class="docutils footnote" frame="void" id="id10" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id3">[1]</a></td><td>Garyfallidis, E., M. Brett, B. Amirbekian, A. Rokem, S. Van Der Walt, M. Descoteaux, and I. Nimmo-Smith. “Dipy, a library for the analysis of diffusion <span class="caps">MRI</span> data”. Frontiers in Neuroinformatics, 1-18, 2014.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id11" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[2]</a></td><td>Garyfallidis, E., M. Brett, <span class="caps">M. M.</span> Correia , <span class="caps">G.B.</span> Williams, I. Nimmo-Smith. &quot;QuickBundles, a method for tractography simplification.&quot;, Frontiers in Neuroscience, 6-175, 2012.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id12" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[3]</td><td><em>(<a class="fn-backref" href="#id2">1</a>, <a class="fn-backref" href="#id6">2</a>)</em> Garyfallidis, E., O. Ocegueda, D. Wasserman, and M. Descoteaux. “Robust and efficient registration of white-matter fascicles in the space of streamlines”. Neuroimage, 2015 (accepted, under publication).</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id13" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[4]</td><td>Garyfallidis, E., D. Wassermann, and M. Descoteaux. &quot;Direct native-space fiber bundle alignment for group comparisons.&quot;, Proceedings of: International Society of Magnetic Resonance in Medicine (<span class="caps">ISMRM</span>). Milan, Italy. 7796, 2014.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id14" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id8">[5]</a></td><td>Smith, S.M., M. Jenkinson, H. Johansen-Berg, D. Rueckert, <span class="caps">T.E.</span> Nichols, <span class="caps">C.E.</span> Mackay, <span class="caps">K.E.</span> Watkins et al., &quot;Tract-based spatial statistics: voxelwise analysis of multi-subject diffusion data.&quot; Neuroimage, 31(4) 1487-1505, 2006.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id15" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label">[6]</td><td>Yushkevich, P.A., Zhang, H., Simon, T.J., Gee, .J.C., “Structure-specific statistical mapping of white matter tracts”, NeuroImage, Jun; 41(2):448-61, 2008.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id16" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id7">[7]</a></td><td>Daducci, A., <span class="caps">E.J.</span> Canales-Rodríguez, H. Zhang, <span class="caps">T.B.</span> Dyrby, <span class="caps">D.C.</span> Alexander, and <span class="caps">J.P.</span> Thiran. &quot;Accelerated Microstructure Imaging via Convex Optimization (<span class="caps">AMICO</span>) from diffusion <span class="caps">MRI</span> data.&quot;,  105 : 32-44, 2015.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id17" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id4">[8]</a></td><td>Catani, Marco, Flavio Dell’Acqua, Francesco Vergani, Farah Malik, Harry Hodge, Prasun Roy, Romain Valabregue, and Michel Thiebaut De Schotten. &quot;Short frontal lobe connections of the human brain.&quot;, Cortex 48, no. 2: 273-291, 2012.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id18" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id5">[9]</a></td><td>Yeatman, J.D., <span class="caps">K.S.</span> Weiner, F. Pestilli, A. Rokem, A. Mezer, and <span class="caps">B. A.</span> Wandell. &quot;The vertical occipital fasciculus: A century of controversy resolved by in vivo measurements.&quot;, Proceedings of the National Academy of Sciences 111, no. 48 : E5214-E5223, 2014.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="id19" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id9">[10]</a></td><td>Cunnane, S. et al., “Brain fuel metabolism, aging, and Alzheimer’s disease”, Nutrition, 27:1, 3-20, 2011.</td></tr>
+</tbody>
+</table>
+</div>
+
+        </div>
+    </section>
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+
+<section class="well well-sm">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://github.com/Garyfallidis"><i class="fa fa-github-square fa-lg"></i> Github</a></li>
+                <li class="list-group-item"><a href="https://www.facebook.com/garyfallidis"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                <li class="list-group-item"><a href="https://twitter.com/garyfallidis"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="https://www.linkedin.com/profile/view?id=17061033"><i class="fa fa-linkedin-square fa-lg"></i> Linkedin</a></li>
+                <li class="list-group-item"><a href="https://www.youtube.com/user/Garyfallidis/videos"><i class="fa fa-youtube-square fa-lg"></i> YouTube</a></li>
+                <li class="list-group-item"><a href="https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts"><i class="fa fa-google-plus-square fa-lg"></i> Google plus</a></li>
+              </ul>
+            </li>
+
+
+
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://dipy.org" target="_blank">
+                Dipy
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://nipy.org/nibabel" target="_blank">
+                Nibabel
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="https://scholar.google.ca/citations?user=Ln2EyRYAAAAJ&hl=en" target="_blank">
+                Scholar Google
+            </a>
+        </li>
+      </ul>
+    </li>
+    </ul>
+</section>
+            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2015 Eleftherios Garyfallidis
+            &middot; Powered by Dipy, Python, Pelican, Numpy and IPython              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+
+
+
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+
+</body>
+</html>
